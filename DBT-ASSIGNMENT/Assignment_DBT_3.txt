@@ -1,0 +1,7 @@
+1) Does ANSI recognize the data type DATE?
+
+A) Yes ANSI recognise the DATE datatype to stores the dates , calendar , year.
+
+2) Which subdivision of SQL is used to insert values in tables?
+
+A) DML(Data Manupulation Language) is used to manipulate data inside the tables.
